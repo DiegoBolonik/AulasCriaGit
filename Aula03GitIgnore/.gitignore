@@ -1,0 +1,6 @@
+#Ignorando todos os arquivos 
+arquivo.c 
+arquivo.js
+*.jar
+*.xml
+node_modules/
